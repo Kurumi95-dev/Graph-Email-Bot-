@@ -26,4 +26,4 @@ jobs:
         run: pip install requests python-dotenv
 
       - name: Run email script
-        run: python send_email.py
+        run: python send_email_quynhminh.py
